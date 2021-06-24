@@ -27,7 +27,7 @@ Example query:
 
 The graphQL endpoint can be queried on python to access the data. 
 
-Create a backend system using Django/FasiAPI/Flask with the following: 
+Create a backend system using Django/FastAPI/Flask with the following: 
 
 1. Query all Tokens available on uniswap using the “Token” schema, save it to Mysql/Postgres every 30 minutes. The existing tokens must be updated.
 
